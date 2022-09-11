@@ -83,7 +83,7 @@ add_hook('ProductEdit', 1, function($vars) {
 			/*
 			 * The image location for the senders image
 			 */
-			"avatar_url" => "https://cdn.discordapp.com/avatars/830103900404449290/cae17e26282021269f839a3082591071.webp?size=512",
+			"avatar_url" => "AVATAR URL",
 			/*
 			 * Whether or not to read the message in Text-to-speech
 			 */
